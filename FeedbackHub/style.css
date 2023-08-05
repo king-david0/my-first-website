@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(185, 207, 227);
+}
+hr{
+    border-color: antiquewhite;
+}
+h1,h2,h3{
+    color: aquamarine;
+}
+input{
+    accent-color: rgb(68, 241, 108);
+}
